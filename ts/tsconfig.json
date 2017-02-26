@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "outFile": "app.js"
+        "outFile": "../js/app.js"
     }
 }
